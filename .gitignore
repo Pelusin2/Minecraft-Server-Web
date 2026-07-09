@@ -1,0 +1,12 @@
+*.pem
+*.key
+.env
+*.sqlite
+instance/
+__pycache__/
+*.pyc
+*.ext
+*.csr
+*.log
+keys/
+*.bat
